@@ -1,6 +1,6 @@
 # PotholeTrackerCR
 
-A modern, serverless REST API for reporting and tracking potholes in Costa Rica, built with Node.js, TypeScript, AWS CDK, Lambda, DynamoDB, S3, and API Gateway.
+A serverless REST API for reporting potholes in Costa Rica, built with Node.js, TypeScript, AWS CDK, Lambda, DynamoDB, S3, and API Gateway.
 
 ---
 
