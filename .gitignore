@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# AWS CDK
+cdk.out/
+
+# Environment
+.env
+*.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/ 
